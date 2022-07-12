@@ -1,7 +1,7 @@
 https://gsmturkey.net/threads/general-mobile-gm-8-ana-konu.220/ ---> Fastboot romlar ---> emmc_appsboot.mbn
 
 fastboot oem_panel_select
-fastboot  oem unlock is not allowed
+oem unlock is not allowed
 Need wipe userdata. Do 'fastboot oem unlock-go'
 fastboot oem unlock
 fastboot oem unlock-go
